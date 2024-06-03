@@ -1,0 +1,1 @@
+var __languages__ = {"localizedValidationMessages":{"required":"Este campo es obligatorio","Email":"Este campo debe ser una direcci\u00f3n de correo electr\u00f3nico v\u00e1lida."}};
